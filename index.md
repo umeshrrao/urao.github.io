@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+# About Me
+Hello and thank you for visiting my web page. I am currently a student on Master of Statistics Program at North Carolina State University.
+I work full-time at SAS Institute as Consulting Manager.
 
-Maybe say a some things about yourself.
+I have a fimly of 4 including me.My wife also works, my daughter is persuing BS in BME from NCSU. MY son is a junior in High School.
 
-Or maybe what you plan to blog about.
+My hobbies include singing, hiking, triathlons, travelling, etc
+
+Please peruse my site and contact me (urao@ncsu.edu) if you’d like to chat!
